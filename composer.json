@@ -1,0 +1,19 @@
+{
+    "name": "larsemil/swishcoder",
+    "description": "Swish QR Code generator",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "larsemil\\SwishCoder\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emil Österlund",
+            "email": "emil@larsemil.se"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
